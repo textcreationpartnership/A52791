@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a lord concerning a bill to incorporate the old East-India Company</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52791</idno>
+            <idno type="STC">Wing N42A</idno>
+            <idno type="STC">ESTC R41467</idno>
+            <idno type="EEBO-CITATION">31355403</idno>
+            <idno type="OCLC">ocm 31355403</idno>
+            <idno type="VID">110444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a lord concerning a bill to incorporate the old East-India Company</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing. Manuscript note on sheet reads: Bill read 24 Jan. 1700.</note>
+                  <note>Signed on p. 2: N.N.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110444:1" rendition="simple:additions"/>
+            <argument>
+               <p>
+                  <add>Bill read 24 Jan 1700. N. N.</add>
+               </p>
+            </argument>
+            <head>A LETTER to a LORD concerning a Bill to incorporate the Old <hi>Eaſt-India</hi> Company.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Have read ſomething, and heard a great deal, concerning <hi>Common-wealths,</hi> but remain ſtill of Opinion, that there never was any <hi>Conſtitution</hi> better contriv'd than our own, for the Conſer<g ref="char:EOLhyphen"/>vation of Publick or <hi>Common Good.</hi> Nothing can paſs into a Law in <hi>England,</hi> 'till it has undergone the different and diſtinct Examinations of the <hi>King,</hi> the Houſe of <hi>Lords,</hi> and the <hi>Repreſentatives</hi> of the <hi>Commons of England.</hi> And, my Lord, I am ſo far from agreeing with the extravagancy of the <hi>late</hi> Times, in thinking your Lordſhips <hi>uſeleſs,</hi> that I am very confident you are, in many reſpects, a ve<g ref="char:EOLhyphen"/>ry <hi>happy</hi> as well as an <hi>eſſential</hi> checque in our Con<g ref="char:EOLhyphen"/>ſtitution. Your Lordſhips have no Profeſſions to biaſs your Debates. Lawyers have been obſerved to make our Statutes intricate, and for their own purpoſe. A very ſenſible People would never ſuf<g ref="char:EOLhyphen"/>fer Merchants or trading Men (how honeſt ſoever) to have any thing to do with the Legiſlature, 'till they had for many Years laid aſide all Trade, leſt their Intereſts or Affections ſhould be too hard for their Inclinations to do good.</p>
+            <p>But it is not only your Lordſhips being exempt from Callings, but your being exempt from the ne<g ref="char:EOLhyphen"/>ceſſity of courting Factions for <hi>your ſhare</hi> in making Laws, that adds Impartiality and weight to whate<g ref="char:EOLhyphen"/>ver paſſes your Houſe. Perhaps there is too often Occaſions for your Lordſhips to exerciſe your <hi>Ariſto<g ref="char:EOLhyphen"/>cratical</hi> Power. I could wiſh you exerted it as of<g ref="char:EOLhyphen"/>ten as there was occaſion. I am not ſure whether a Bill now before you does not juſtly and loudly call for the Power to which you were born. It is your Station. You are brought up to conſider <hi>Pub<g ref="char:EOLhyphen"/>lick Treaties</hi> with <hi>Foreign</hi> Princes. You know the Decency that is due to the <hi>chief Adminiſtrators</hi> of Affairs. You know how much the Honour of Kings, and the Welfare of Nations are concerned in keep<g ref="char:EOLhyphen"/>ing punctually to every thing that is ſtipulated by thoſe who <hi>negotiate</hi> for the reſpective States. All this is little more than Preface, and from a deſign not to fall too abruptly upon a matter that is now laid before your Lordſhips.</p>
+            <p>You are now poſſeſſed of a Bill to <hi>incorporate</hi> the <hi>Old Eaſt India Company.</hi> I will not inſiſt upon the ſeveral <hi>Addreſſes</hi> of the Houſe of Commons to diſ<g ref="char:EOLhyphen"/>ſolve that Company. And leſs will I repeat the <hi>Reaſons</hi> that occaſioned thoſe <hi>Addreſſes.</hi> I will be<g ref="char:EOLhyphen"/>gin no higher than 19 <hi>Jan.</hi> 1693. at which time the Houſe of Commons of <hi>England</hi> declared it the <hi>Right</hi> of every <hi>Engliſh</hi> Subject to trade to the <hi>Eaſt-Indies,</hi> unleſs prohibited by Act of Parliament; and withal I beg leave to remind your Lordſhip, that it was upon the Encouragement of this <hi>Vote</hi> that the <hi>Free-Traders</hi> began to launch <hi>boldly</hi> into the Traffick of thoſe Parts, but were far from <hi>invidiouſly</hi> endea<g ref="char:EOLhyphen"/>vouring to ſhut out others from that Trade. But the old <hi>Eaſt-India</hi> Company behaved themſelves quite otherwiſe; and ſoon perceiving that others, as well as themſelves could, <hi>without having either Forts or Garriſons,</hi> trade profitably to thoſe Places, they were preſently, as they had been conſtantly, bent to make that Trade a <hi>Monopoly,</hi> and ſo offered, 4 <hi>May,</hi> 1698. to lend the Goverment 700000 Pounds, provided they might have the <hi>ſole</hi> Trade thither ſettled upon them for 31 Years by Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>I will not trouble your Lordſhip, with recount<g ref="char:EOLhyphen"/>ing how delatory and trifling nevertheleſs they were, nor upon what fallacious Proviſo's and Con<g ref="char:EOLhyphen"/>ditions they would, after all, have lent their Mo<g ref="char:EOLhyphen"/>ney.</p>
+            <p>It is ſufficient to my preſent Purpoſe, to ſet down, that it was by reaſon of <hi>this</hi> Offer from the Old <hi>Eaſt-India</hi> Company, that the Houſe of Com<g ref="char:EOLhyphen"/>mons <hi>firſt</hi> empower'd the <hi>Committee</hi> of Ways and Means to receive Propoſals to ſettle the Trade to the <hi>Eaſt-Indies;</hi> and that the Gentlemen, who are now the New Company, if I may ſo ſay, out-bid them, and propoſed to lend two Millions, upon Condition that the ſaid Trade ſhould be ſecured <hi>ſolely</hi> to thoſe that furniſhed that Sum.</p>
+            <p>To this Propoſal the Parliament agreed, and this was the plain Bargain made between the Subſcri<g ref="char:EOLhyphen"/>bers and the Legiſlature. This is what the New Company expected, what they lent their Money upon. They did not doubt but that their Security would be well drawn. They did not apprehend that any want of Grammar, or the miſtake of a Clerk, if any ſuch ſhould be, would raiſe any Conſtructions to their diſadvantage. And the Old Company had, when the Act was made, the very ſame thoughts, believed theirs would be diſſolved, that there could be but <hi>one</hi> Company trading with a <hi>Joint-Stock</hi> to the <hi>Eaſt Indies.</hi>
+            </p>
+            <p>Their own Applications by themſelves and Coun<g ref="char:EOLhyphen"/>cil to your Lordſhips, were (as I know your Lord<g ref="char:EOLhyphen"/>ſhip, who obſerves every thing, can very eaſily recollect) I ſay, all the Applications of the Old Company were upon this Foundation.</p>
+            <p>His Majeſty's Diſſolution of them was but ac<g ref="char:EOLhyphen"/>cording to the Power he had reſerved in their Charter; was reſerved, and, as I may ſay, direct<g ref="char:EOLhyphen"/>ed by the Act of Parliament; was according to what the <hi>Old,</hi> the New Company, and all Men took for the Senſe of the Act.</p>
+            <p>And the Subſcribers to the New Company were as careful to ſecure their Bargain. They exacted the performance of all the neceſſary Forms for the Determination of the Old, and would not ſubſcribe 'till the Old Company's Diſſolution was actually ſigned. And it was not 'till after that the Old Com<g ref="char:EOLhyphen"/>pany had actually received notice of their Diſſolu<g ref="char:EOLhyphen"/>tion, that Mr. <hi>John Dubois</hi> ſubſcribed, and ſo, as all Men thought, came in under the Terms of that Act, which, by the way, the Old Company, when it was firſt offered to them, refuſed.</p>
+            <p>Your Lordſhip will hear from another Hand how <hi>deſtructive</hi> to the Trade two Companies will be, and how groundleſs are their Suggeſtions for their being <hi>continued</hi> a Corporation, how unneceſſary it is to continue them ſo, for the <hi>very Ends</hi> that they pretend. I know your Lordſhip will ſteal time even from your Meals and Sleep, rather than not be throughly informed in a matter of this Moment. I know you will read all that is written upon the Subject, and therefore I will not repeat what I know will be purpoſely handled in another Paper.</p>
+            <p>But I can't help ſaying, that it ſeems ſtrange, ſince all that I have ſaid is Fact, that the Old Company ſhould nevertheleſs laſt Year Petition the Houſe of Commons, not only to be continued a Corporation, but to have the Five <hi>per Cent.</hi> taken off. Indeed that Petition was then rejected. But
+<pb facs="tcp:110444:2"/>
+is it not yet ſtranger, that they ſhould this Seſſions be able to get a Bill paſs through that Houſe to <hi>continue</hi> them a Corporation, and have ſo powerful an Intereſt, as that <hi>all Clauſes to explain and confirm the Five</hi> per Cent. <hi>and to determine their being ſubject to the Rules and Reſtrictions of the general Society ſhould be rejected?</hi>
+            </p>
+            <p>The New Company know very well what they reckoned their Bargain, and they are glad the Jud<g ref="char:EOLhyphen"/>ges ſit in your Lordſhips Houſe to give <hi>their Opini<g ref="char:EOLhyphen"/>ons,</hi> if asked, <hi>upon the Law.</hi> If the Law is not ſo ſtrictly penned as it ſhould be, ſince all <hi>England</hi> knows what it was intended to be, it ſhould, with ſubmiſſion, be conſtrued as it was deſigned. Your Lordſhips (who are the laſt reſort of Equity as well as Law) will doubtleſs in this matter, of ſo great Importance, beſtir your ſelves to do the utmoſt Juſtice.</p>
+            <p>Publick Credit (without which Communities can ſcarce ſubſiſt) is concerned to have this Bargain made good entirely.</p>
+            <p>If Men cannot lend Money upon Acts of Parlia<g ref="char:EOLhyphen"/>ment, the Government muſt deal hereafter with none but <hi>Pawn-brokers,</hi> and take it up upon Plate and Jewels, as the King of <hi>Poland</hi> was forced lately to do in the buſineſs of <hi>Elbing.</hi>
+            </p>
+            <p>I have ſaid enough to your Lordſhip about Pub<g ref="char:EOLhyphen"/>lick Credit, when you have allowed me the Ho<g ref="char:EOLhyphen"/>nour to be admitted into your moſt retired Conver<g ref="char:EOLhyphen"/>ſations, and I have found your Lordſhip ſo ſatisfied, that it is to be maintained with utmoſt nicety, that I need ſay no more to you upon that Head, but for the ſake of others I muſt be a little more expreſs.</p>
+            <p>Unleſs a Nation is ſure it ſhall never more make War, the Publick Faith ought to be kept free from all Suſpicion. <hi>Machiavei</hi> obſerved ſo long ago as his Time, that Money was the Sinews of War. It is evidently more and more ſo ſince; becauſe the World is better acquainted with Encamping, and a Battel or two does not now decide the Contro<g ref="char:EOLhyphen"/>verſies between Princes. A wiſe and a cautious Ge<g ref="char:EOLhyphen"/>neral in our Days can preſerve a Country from thoſe rough Deciſions, and we ſeldom now hear of Armies ſo routed that they can never rally again. Taking good Ground, and furniſhing Proviſions for an Army, are become a great part of the preſent Art of War. The laſt Article of <hi>Military</hi> skill depends not on good Troops but laſting Purſes. When Publick credit is preſerved chaſt and unſpotted, Men think, in a Publick Calamity, that the Exchequer of the Common-wealth is the ſafeſt Repoſitory of their Treaſure; nay, if your own Country cannot fur<g ref="char:EOLhyphen"/>niſh you with Coin enough, Forreigners will with their Wealth as well as Men enable you to maintain the War. So that you do not only depend upon your ſelf, but have all the Neutral World ready to ſupply you with Men or Money. This Act ſuppoſed we might be aſſiſted with Foreign Mo<g ref="char:EOLhyphen"/>ney, and the <hi>Danes</hi> (who were not concern'd ei<g ref="char:EOLhyphen"/>ther on the Confederates or <hi>French</hi> ſide) lent us Troops. It was the opinion that men had of our Publick Credit, that enabled us more than any thing elſe to humble <hi>France.</hi> But had it been plain, that an Act of Parliament was not a Security to be depended upon, whatever difficulties and dangers had beſet the Government, all men would have endeavoured to hide their Plate and Money, and made their particular Property the laſt ſtake to be play'd off.</p>
+            <p>But, my Lord, I muſt not be too tedious on this, or any other Head. I will only tell your Lordſhip that I ſuſpect, that this Bill is not the only attack that the Old <hi>Eaſt-India</hi> Company deſign to make upon our Publick Credit. Methinks there are two plain Reaſons for this ſurmiſe. One Reaſon is what I have already mentioned, <hi>viz.</hi> That as they laſt Year Petitioned againſt the Five <hi>per Cent.</hi> they now, whilſt this Bill was paſſing, oppoſed that, and all o<g ref="char:EOLhyphen"/>ther <hi>Explanations</hi> of the late Act. My other Rea<g ref="char:EOLhyphen"/>ſon is; becauſe meer <hi>Incorporation</hi> will little re<g ref="char:EOLhyphen"/>dound to their Benefit, unleſs vying with the New Company, and ſo making Goods dearer in the <hi>In<g ref="char:EOLhyphen"/>dies,</hi> and, by that means, confounding the Trade, till our Neighbours ſwallow it up, are reckoned <hi>by them</hi> Advantages.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/>
+I know not what they mean; for they muſt have ſome ſtrange and very hidden deſigns; be<g ref="char:EOLhyphen"/>cauſe they are men that are very well acquainted with the World, and the buſineſs of it; and I think I may Challenge the Old <hi>Eaſt-India</hi> Company to ſhew ſo much as <hi>one Precedent</hi> in any Country what<g ref="char:EOLhyphen"/>ſoever, <hi>of two Companies trading with two diſtinct Joynt-ſtocks to the ſame place.</hi>
+            </p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/>
+Your Lordſhips are the ſtanding and <hi>dernier Ar<g ref="char:EOLhyphen"/>bitrators</hi> of this Realm, and, with ſubmiſſion, I humbly conceive, that it will be a nobler employ<g ref="char:EOLhyphen"/>ment of your Lordſhips time, to take the quarrel that is between the two Companies into your own hands, than to paſs an Act in favour of one. They on both ſides pretend they have been fair and treata<g ref="char:EOLhyphen"/>ble, but I ſee nothing that comes of their treating with one another. There may be avaritious and art<g ref="char:EOLhyphen"/>ful men in both Companies, who may find their ac<g ref="char:EOLhyphen"/>compt in keeping up the difference, but ſuch de<g ref="char:EOLhyphen"/>ſigning men will find it a hard task to impoſe upon your Lordſhips. There are in your Houſe Noble Minds, who have not thought it below their Dig<g ref="char:EOLhyphen"/>nity, in an Iſland ſupported by Traffick and Navi<g ref="char:EOLhyphen"/>gation, to underſtand Accompts and Trade, and ſure it will be as well for the Nation to have their reſpective Claims at firſt determined by your Lord<g ref="char:EOLhyphen"/>ſhips, as when they have walked through the Courts of <hi>Weſtminſter-Hall</hi> into your Houſe.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/>
+If your Lordſhips take up the matter. If you now reſolve what both ſides ſhall be contented with, then there will be an end of thoſe convulſive ſtrug<g ref="char:EOLhyphen"/>gles between both theſe great Factions, which may poſſibly otherwiſe, one time or other, under ſuch circumſtances as may happen, endanger the whole State.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/>
+I will conclude, but muſt firſt ſay, that I hum<g ref="char:EOLhyphen"/>bly conceive it neceſſary for the Honour of <hi>England</hi> it ſelf, that you ſhould enter upon this matter; for it is impoſſible for us to know what Treaties his Ma<g ref="char:EOLhyphen"/>jeſty's Embaſſador may have begun with the Great <hi>Mogul;</hi> and ſhould we ſend thither Inſtructions, Acts of Parliament, and Reports that contradict one ano<g ref="char:EOLhyphen"/>ther, we ſhould at leaſt be infallibly reckoned an in<g ref="char:EOLhyphen"/>conſtant and faithleſs People.</p>
+            <p>I will make no Apology to your Lordſhip, for ſpeaking my thoughts thus boldly; for you ever give me that Liberty: But if any thing I have ſaid offend others, let them believe candidly of my Intention, and correct my Errors by an Anſwer. I am, as becomes my obligations,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt Devoted, and moſt Humble Servant, <hi>N. N.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
